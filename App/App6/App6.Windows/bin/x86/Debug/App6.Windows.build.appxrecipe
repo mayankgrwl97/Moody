@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JASPREET</Machine>
+    <WindowsUser>Jaspreet</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>74fc2934-ddcd-4776-a05e-e8e7991c6f44</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.exe">
+      <PackagePath>App6.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\References\commonconfiguration\x86\Bing.Speech.winmd">
+      <PackagePath>Bing.Speech.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\References\commonconfiguration\x86\Microsoft.Speech.VoiceService.Audio.winmd">
+      <PackagePath>Microsoft.Speech.VoiceService.Audio.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\References\commonconfiguration\x86\Microsoft.Speech.VoiceService.MSSRAudio.winmd">
+      <PackagePath>Microsoft.Speech.VoiceService.MSSRAudio.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\References\commonconfiguration\x86\Bing.Speech.Xaml.SpeechRecognizerUx.dll">
+      <PackagePath>Bing.Speech.Xaml.SpeechRecognizerUx.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\References\commonconfiguration\x86\Microsoft.Bing.Platform.Logging.ClientWinRT.dll">
+      <PackagePath>Microsoft.Bing.Platform.Logging.ClientWinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\packages\Newtonsoft.Json.8.0.2\lib\portable-net45+wp80+win8+wpa81+dnxcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\neutral\Bing.Speech\earcons\DoneListeningEarcon.wav">
+      <PackagePath>Bing.Speech\earcons\DoneListeningEarcon.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\neutral\Bing.Speech\earcons\ListeningEarcon.wav">
+      <PackagePath>Bing.Speech\earcons\ListeningEarcon.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\x86\Microsoft.Speech.VoiceService.Audio.dll">
+      <PackagePath>Microsoft.Speech.VoiceService.Audio.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\x86\Microsoft.Speech.VoiceService.MSSRAudio.dll">
+      <PackagePath>Microsoft.Speech.VoiceService.MSSRAudio.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\neutral\Bing.Speech\css\voiceuicontrol.css">
+      <PackagePath>Bing.Speech\css\voiceuicontrol.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Speech\1.1\Redist\commonconfiguration\neutral\Bing.Speech\js\voiceuicontrol.js">
+      <PackagePath>Bing.Speech\js\voiceuicontrol.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\A2o2Yq4.jpg">
+      <PackagePath>Assets\A2o2Yq4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\christmas-bells-happy-new-year-ribbon--backgrounds-wallpapers.jpg">
+      <PackagePath>Assets\christmas-bells-happy-new-year-ribbon--backgrounds-wallpapers.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\final %282%29.jpg">
+      <PackagePath>Assets\final %282%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\foggy_forest_1_1024.jpg">
+      <PackagePath>Assets\foggy_forest_1_1024.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\glooamy.jpg">
+      <PackagePath>Assets\glooamy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\premade_background__1100_by_ashensorrow-d38raxs.jpg">
+      <PackagePath>Assets\premade_background__1100_by_ashensorrow-d38raxs.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\cutmypic.png">
+      <PackagePath>Assets\cutmypic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Resources\Cheerful\leanOn.mp3">
+      <PackagePath>Resources\Cheerful\leanOn.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Resources\Gloomy\01 - Gerua - Dilwale [Songspk.SITE].mp3">
+      <PackagePath>Resources\Gloomy\01 - Gerua - Dilwale [Songspk.SITE].mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Resources\Happy\happy.mp3">
+      <PackagePath>Resources\Happy\happy.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\Resources\Sad\09 Kabhi Khushi Kabhi Gham - Sad %28Lata%29.mp3">
+      <PackagePath>Resources\Sad\09 Kabhi Khushi Kabhi Gham - Sad %28Lata%29.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.xr.xml">
+      <PackagePath>App6.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf">
+      <PackagePath>Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,123 @@
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\App.xbf
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\MainPage.xbf
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.xr.xml
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.exe
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.pdb
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\resources.pri
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\AppxManifest.xml
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.build.appxrecipe
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\Bing.Speech.winmd
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx.dll
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\Microsoft.Bing.Platform.Logging.ClientWinRT.dll
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\Microsoft.Speech.VoiceService.Audio.winmd
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\bin\x86\Debug\Microsoft.Speech.VoiceService.MSSRAudio.winmd
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\App.g.i.cs
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\App.g.cs
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\MainPage.g.i.cs
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\MainPage.g.cs
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\App.xaml
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\App.xbf
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\MainPage.xaml
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\MainPage.xbf
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\App6.Windows.exe
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\App6.Windows.pdb
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\App6.Windows.csproj.GenerateResource.Cache
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\priconfig.xml
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\layout.resfiles
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\resources.resfiles
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\pri.resfiles
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\qualifiers.txt
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mayank\documents\visual studio 2015\Projects\App6\App6\App6.Windows\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App.xbf
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\MainPage.xbf
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.xr.xml
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.exe
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.pdb
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\resources.pri
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.build.appxrecipe
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Bing.Speech.winmd
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx.dll
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Microsoft.Bing.Platform.Logging.ClientWinRT.dll
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Microsoft.Speech.VoiceService.Audio.winmd
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Microsoft.Speech.VoiceService.MSSRAudio.winmd
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App.g.cs
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App.xaml
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App.xbf
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App6.Windows.exe
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App6.Windows.pdb
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App6.Windows.csproj.GenerateResource.Cache
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\hp-pc\Desktop\App6\App6\App6.Windows\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App.xbf
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\MainPage.xbf
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.xr.xml
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.exe
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.pdb
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\resources.pri
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\App6.Windows.build.appxrecipe
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Bing.Speech.winmd
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx.dll
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Microsoft.Bing.Platform.Logging.ClientWinRT.dll
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Microsoft.Speech.VoiceService.Audio.winmd
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Microsoft.Speech.VoiceService.MSSRAudio.winmd
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App.g.cs
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App.xaml
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App.xbf
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App6.Windows.exe
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App6.Windows.pdb
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App6.Windows.csproj.GenerateResource.Cache
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Jaspreet\Desktop\App6\App6\App6.Windows\obj\x86\Debug\App6.Windows.csprojResolveAssemblyReference.cache
